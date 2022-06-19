@@ -5,5 +5,5 @@
 
 ----------
 
-### LUT_G is free app that geterates LUT for Pre-Integrated SubSurface Scattering. LUT_G supports custom color, file extension and resolution. The application is easy to use and it is available to everyone.
+### LUT_G is free app that geterates LUT for Pre-Integrated SubSurface Scattering. LUT_G supports custom color, file extension and resolution. LUT_G is easy to use and it is available to everyone.
 ### You can get it on the GumRoad for FREE at the following link: https://denebkelt.gumroad.com/l/lut_g
